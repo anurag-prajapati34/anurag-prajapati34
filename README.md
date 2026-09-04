@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="left">
-<strong>Backend-focused Full-Stack Engineer building backend systems & AI infrastructure
+<strong>Backend-focused Full-Stack Engineer building backend systems & AI software
 </td>
 <td align="right">
 <a href="https://anuragdev.com/">Portfolio</a> ·
