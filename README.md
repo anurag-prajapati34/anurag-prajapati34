@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="left">
-<strong> FullStack developer(backend-focused) building scalable backend and AI Systems
+<strong>Backend-focused Full-Stack Engineer building backend systems & AI infrastructure
 </td>
 <td align="right">
 <a href="https://anuragdev.com/">Portfolio</a> ·
@@ -12,14 +12,16 @@
 </tr>
 </table>
 
-I build **backend systems, REST APIs, event-driven pipelines, and RAG/agentic AI infrastructure.**
+I’m a Backend-focused Software Engineer interested in how real-world systems are designed, built, and scaled.
 
 ### Highlights
 
-- Spent a year as **Backend Software Engineer at LiveInTech**, building and maintaining backend services for a fintech wealth management platform (Mutual Funds, PMS, AIF, SIF, Insurance)
-- Designed **shared backend APIs** consumed across Web, iOS, and Android for consistent business logic and data contracts
-- Built **event-driven notification pipelines** using BullMQ for transactional emails, SMS, and lifecycle events
-- **Oracle Agentic AI Certified Foundations Associate** (August 2026)
+* **Backend Software Engineer at LiveInTech**, building backend services for a fintech wealth management platform supporting Mutual Funds, PMS, AIF, SIF, and Insurance
+* Designed and maintained **shared REST APIs and business logic** consumed across Web, iOS, and Android applications, ensuring consistent data contracts and workflows
+* Built **event-driven and asynchronous backend pipelines** using Node.js, Redis, and BullMQ for transactional notifications, background jobs, and lifecycle events
+* **Oracle Agentic AI Certified Foundations Associate** (August 2026)
+
+<br/>
 
 <br/>
 
@@ -47,6 +49,3 @@ I build **backend systems, REST APIs, event-driven pipelines, and RAG/agentic AI
 <img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
-<p align="center">
-<img src="https://count.getloli.com/@:anurag-prajapati34" alt="Profile views" />
-</p>
